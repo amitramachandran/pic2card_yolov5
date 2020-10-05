@@ -25,10 +25,10 @@ Configure the yaml file to add the input image folder path.
 
 *Ground Truth*
 
-![test_batch0_gt](/home/amit/pic2card_yolov5/test_batch0_gt.jpg)
+![test_batch0_gt](/home/amit/pic2card_yolov5/result_pic2card/result_v5_pic2card/test_batch0_gt.jpg)
 
 
 
 *YOLO predictions*
 
-![test_batch0_pred](/home/amit/pic2card_yolov5/test_batch0_pred.jpg)
+![test_batch0_pred](/home/amit/pic2card_yolov5/result_pic2card/result_v5_pic2card/test_batch0_pred.jpg)
