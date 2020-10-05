@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+cython = "*"
+numpy = "==1.17"
+opencv-python = "*"
+torch = ">=1.4"
+matplotlib = "*"
+pillow = "*"
+tensorboard = "*"
+pyyaml = ">=5.3"
+torchvision = "*"
+scipy = "*"
+tqdm = "*"
+pycocotools = "*"
+
+[requires]
+python_version = "3.7"
