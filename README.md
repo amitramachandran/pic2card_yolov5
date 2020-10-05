@@ -29,4 +29,6 @@ Configure the yaml file to add the input image folder path.
 
 
 
-*YOLO predictions*![test_batch0_pred](/home/amit/pic2card_yolov5/test_batch0_pred.jpg)
+*YOLO predictions*
+
+![test_batch0_pred](/home/amit/pic2card_yolov5/test_batch0_pred.jpg)
